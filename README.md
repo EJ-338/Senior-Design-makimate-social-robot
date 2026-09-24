@@ -13,6 +13,7 @@ The team also designed new arms and a tablet-compatible torso. Those mechanical 
 
 ## My documented contributions
 
+-- Integrated Python and SQLite databases for professor offices and lab locations into MakiMate's speech-to-text, conversational AI, and text-to-speech workflow.
 - Contributed to the software subsystem and its documentation.
 - Researched engineering standards relevant to a robot that interacts with people.
 - Documented reliability considerations and potential customers.
