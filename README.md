@@ -20,3 +20,7 @@ The team also designed new arms and a tablet-compatible torso. Those mechanical 
 ## Team
 
 Eric Janowiecki, Lawrence Dokaj, Danilo Zdravkovic, Mahfuja Jannat, Jackson Mabry, James Lauritsen, and Nate Anderson.
+
+## Project spotlight
+
+[IRL² post about the MakiMate senior design team](https://lnkd.in/p/gDvuKNvQ)
