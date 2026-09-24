@@ -24,3 +24,5 @@ Eric Janowiecki, Lawrence Dokaj, Danilo Zdravkovic, Mahfuja Jannat, Jackson Mabr
 ## Final report
 
 [Read the MakiMate team report](./Group%209%20Final%20Report.pdf)
+
+[View the MakiMate final presentation](./MakiMate_Final_Presentation.pdf)
